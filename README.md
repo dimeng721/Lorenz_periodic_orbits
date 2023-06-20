@@ -17,7 +17,7 @@ These are the key codes related to the periodic orbits of the Lorenz system, inc
 
 
 
-​		Intlab.zip: Interval analysis. The basic usage can be found in the literature. See: Hargreaves G I. Interval analysis in MATLAB[J]. Numerical Algorithms, 2002 (2009.1). IntLab V11 and higher versions can be more conducive to the calculation of interval vectors
+​		Intlab.zip: Interval analysis. The basic usage can be found in the literature. See: Hargreaves G I. Interval analysis in MATLAB[J]. Numerical Algorithms, 2002 (2009.1). IntLab V11 and higher versions can be more conducive to the calculation of interval vectors. In addition, the enclosure will be easily obtained by the Taylor method or the AWA method
 
 
 
